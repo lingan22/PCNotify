@@ -1,0 +1,35 @@
+# Build and compilation outputs
+bin/
+obj/
+dist/
+*.pdb
+
+# Visual Studio / Visual Studio Code
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.ide/
+
+# Logs and temporary data
+*.log
+*.tmp
+logs/
+.system_generated/
+scratch/
+
+# Internal development & AI tracking
+docs/
+AI_RULES.md
+PROJECT_STATUS.md
+ROADMAP.md
+TODO.md
+
+# Operating System specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
